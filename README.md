@@ -25,7 +25,7 @@ Host Code:
   
 Compilation:
 
-  ```nvcc kernel1.cu -o exit  ```
+  ```nvcc kernel.cu -o exit  ```
 
 Execution:
 
