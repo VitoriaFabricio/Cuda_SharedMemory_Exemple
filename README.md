@@ -22,6 +22,7 @@ Host Code:
 - Measures and prints the execution time.
 - Reads the processed image from the device and writes the result to a CSV file (result.csv).
 
+
   
 Compilation:
 
